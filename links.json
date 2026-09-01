@@ -1,10 +1,26 @@
 [
   {
-    "image": "LINK1.svg",
-    "url": "https://example.com/item-one"
+    "image": "chess.svg",
+    "url": "https://tileworks-studio.github.io/Your_Club_Name_Here/"
   },
   {
-    "image": "LINK2.svg",
+    "image": "battleships.svg",
     "url": "https://example.com/item-two"
-  }
+  },
+   {
+    "image": "chess.svg",
+    "url": "https://tileworks-studio.github.io/Your_Club_Name_Here/"
+  },
+   {
+    "image": "chess.svg",
+    "url": "https://tileworks-studio.github.io/Your_Club_Name_Here/"
+  },
+  {
+    "image": "chess.svg",
+    "url": "https://tileworks-studio.github.io/Your_Club_Name_Here/"
+  },
+  {
+    "image": "chess.svg",
+    "url": "https://tileworks-studio.github.io/Your_Club_Name_Here/"
+  },
 ]
