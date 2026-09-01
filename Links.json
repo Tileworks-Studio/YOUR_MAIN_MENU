@@ -1,0 +1,10 @@
+[
+  {
+    "image": "LINK1.svg",
+    "url": "https://example.com/item-one"
+  },
+  {
+    "image": "LINK2.svg",
+    "url": "https://example.com/item-two"
+  }
+]
